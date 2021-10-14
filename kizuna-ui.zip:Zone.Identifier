@@ -1,3 +1,4 @@
 [ZoneTransfer]
 ZoneId=3
-HostUrl=https://github-releases.githubusercontent.com/299591255/a2eaf019-d9eb-4904-83bf-5a6b81b3299e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211011T085553Z&X-Amz-Expires=300&X-Amz-Signature=5ba8efc289399ea5c25b2bbbb04dcde1a832d5534cb5b19ffc80e8ad2bcbc7fa&X-Amz-SignedHeaders=host&actor_id=16625137&key_id=0&repo_id=299591255&response-content-disposition=attachment%3B%20filename%3Dkizuna-ui.zip&response-content-type=application%2Foctet-stream
+HostUrl=https://chat.holochain.org/api/v4/files/5mii6ynjpbfaijpqx9eqbh9kkc?download=1
+-5a6b81b3299e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211011T085553Z&X-Amz-Expires=300&X-Amz-Signature=5ba8efc289399ea5c25b2bbbb04dcde1a832d5534cb5b19ffc80e8ad2bcbc7fa&X-Amz-SignedHeaders=host&actor_id=16625137&key_id=0&repo_id=299591255&response-content-disposition=attachment%3B%20filename%3Dkizuna-ui.zip&response-content-type=application%2Foctet-stream
